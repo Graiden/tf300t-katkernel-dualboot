@@ -1,3 +1,15 @@
+Here is dualboot linux kernel for asus tf300 which allow you to choise to boot some
+linux distro or android. It based on KitKass kernel (https://github.com/timduru/tf300t-katkernel).
+
+Special thanks to:
+cb22 (http://forum.xda-developers.com/member.php?u=374382)
+dragonnn (http://forum.xda-developers.com/member.php?u=4300237)
+JoinTheRealms (http://forum.xda-developers.com/member.php?u=4582979)
+Rabit (https://github.com/rabits)
+schrdlu (http://forum.xda-developers.com/member.php?u=3656247)
+Timduru (https://github.com/timduru)
+
+
 	Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
